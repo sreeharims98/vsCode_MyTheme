@@ -47,7 +47,12 @@
     "statusBarItem.remoteBackground": "#AC6218",
     "activityBar.background": "#000000",
     "activityBar.foreground": "#f8f8f2",
+<<<<<<< HEAD
     "activityBar.activeBorder": "#303F9F",
+=======
+    "activityBarBadge.background": "#303F9F",
+    "activityBar.dropBackground": "#414339",
+>>>>>>> d76b99b317422127643acde82a5749ea9610977d
     "sideBar.background": "#0a0a0a",
     "sideBar.border": "#394243",
     "sideBarSectionHeader.background": "#000000",
